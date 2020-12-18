@@ -21,7 +21,7 @@ Both **sigmoid** and **tanh** functions are not suitable for hidden layers becau
 ## Output layer
 
  * For ***binary classification***, ***sigmoid function*** is a good choice because the actual output value ‘Y’ is either 0 or 1 so it makes sense for predicted output value to be a number between 0 and 1.
- * For ***non-classification problems*** such as prediction of housing prices, ***linear activation function*** is more preferable.
+ * For non-classification problems such as ***prediction of housing prices,linear activation function*** is more preferable.
  * ***Softmax Function*** is used in output layer of deep learning models, especially when it is necessary to classify ***more than two***.
 
 
